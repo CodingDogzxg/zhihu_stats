@@ -16,7 +16,7 @@ example：
 
 或者直接用我部署到我服务器的api:https://codingdog.xyz/api/zhihu_stats.php/{username}
 
-zhihu api的访问限制应该是5000一下 多了服务器可能会宕机或限制访问
+zhihu api的并发访问限制应该是5000以下 多了服务器可能会宕机或限制访问
 
 ---
 
