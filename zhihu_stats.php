@@ -1,8 +1,8 @@
 <?php
     $userName = $_GET["username"];
 
-    $url1="https://api.zhihu.com/people/$userName";
-    $response1=file_get_contents($url1);
+    $url1 = "https://api.zhihu.com/people/$userName";
+    $response1 = file_get_contents($url1);
     $result = json_decode($response1, true);
     
     
@@ -33,7 +33,7 @@
             .rank-circle-rim {
                 stroke: #fffffe;
                 fill: none;
-                stroke-width: 40;
+                stroke-width: 36;
                 opacity: 1;
             }
         </style>
@@ -47,7 +47,7 @@
             <g transform="translate(25, 55)">
                 <g xmlns="http://www.w3.org/2000/svg" transform="translate(310, 0)">
                     <image href="{$icon}" height="100" width="100"/>
-                    <circle xmlns="http://www.w3.org/2000/svg" class="rank-circle-rim" cx="50" cy="50" r="70"/>
+                    <circle xmlns="http://www.w3.org/2000/svg" class="rank-circle-rim" cx="50" cy="50" r="68"/>
                  </g>
             
                 <g transform="translate(0, 0)">
