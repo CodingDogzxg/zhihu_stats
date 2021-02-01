@@ -17,4 +17,4 @@ example：
 
 
 展示：
-<a href="https://github.com/CodingDogzxg/MessAround"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CodingDogzxg&repo=MessAround" alt="progressive-image.js statistics"></a>
+<a href="https://www.zhihu.com/people/qaucodingdog"><img src="https://www.codingdog.xyz/api/zhihu_stats.php?username=qaucodingdog" align="center"></a>
