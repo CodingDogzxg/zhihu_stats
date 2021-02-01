@@ -13,8 +13,12 @@ example：
 <a href="xxx"><img src="api地址"></a>
 <img>标签可手写css style 如：align="right"
 ```
+
 或者直接用我部署到我服务器的api:https://codingdog.xyz/api/zhihu_stats.php/{username}
 
+zhihu api的访问限制应该是5000一下 多了服务器可能会宕机或限制访问
+
+---
 
 展示：
 <a href="https://www.zhihu.com/people/qaucodingdog"><img src="https://www.codingdog.xyz/api/zhihu_stats.php?username=qaucodingdog" align="center"></a>
