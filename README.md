@@ -10,7 +10,7 @@ example：
 部署到你的服务器以后 在readme.md中写下以下代码
 
 ```md
-> <a href="xxx"><img src="api地址"></a>
+<a href="xxx"><img src="api地址"></a>
 <img>标签可手写css style 如：align="right"
 ```
 或者直接用我部署到我服务器的api:https://codingdog.xyz/api/zhihu_stats.php/{username}
