@@ -14,7 +14,7 @@ example：
 <img>标签可手写css style 如：align="right"
 ```
 
-或者直接用我部署到我服务器的api:https://codingdog.xyz/api/zhihu_stats.php/{username}
+或者直接用我部署到我服务器的api:https://codingdog.xyz/api/zhihu_stats.php?username={username}
 
 zhihu api的并发访问限制应该是5000以下 多了服务器可能会宕机或限制访问
 
