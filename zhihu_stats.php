@@ -23,7 +23,7 @@
     
     header("Content-type: image/svg+xml; charset=utf-8");
     header("accept-ranges: bytes");
-    header("Cache-Control : max-age=600");
+    header("cache-control: max-age=600");
     
     echo <<<EOT
     <svg width="495" height="160" viewBox="0 0 495 160" fill="none" xmlns="http://www.w3.org/2000/svg">
