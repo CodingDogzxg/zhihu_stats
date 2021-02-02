@@ -21,4 +21,4 @@ zhihu api的并发访问限制应该是5000以下 多了服务器可能会宕机
 ---
 
 展示：
-<a href="https://www.zhihu.com/people/qaucodingdog"><img src="https://www.codingdog.xyz/api/zhihu_stats.php?username=2d44da77b78bb0fde45e97280b848709" align="center"></a>
+<a href="https://www.zhihu.com/people/qaucodingdog"><img src="https://www.codingdog.xyz/api/zhihu_stats1.php?username=qaucodingdog" align="center"></a>
